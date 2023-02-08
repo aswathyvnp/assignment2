@@ -64,6 +64,10 @@
 	border-radius: 10px;
 }
 
+.test,
+.test .placement_1 {
+	padding: 0;
+}
 .test_div1 {
 	background-image: url("../image/testsbg.jpg");
 	background-size: contain;
@@ -121,11 +125,5 @@
 
 	.point {
 		font-size: larger;
-	}
-
-	.placement_1,
-	.test {
-		display: block;
-		width: 100%;
 	}
 }
