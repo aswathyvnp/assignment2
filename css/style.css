@@ -113,7 +113,7 @@
 	gap: 20px;
 }
 
-@media screen and (max-width: 576px) and (min-width: 234px) {
+@media screen and (max-width: 972px) and (min-width: 234px) {
 	.banner_container .row {
 		background-color: #bcc2cadc;
 		background-image: none;
@@ -135,6 +135,10 @@
 
 	.placement_point {
 		margin: 0;
+	}
+
+	.parent {
+		margin-top: 20px;
 	}
 
 	.point {
